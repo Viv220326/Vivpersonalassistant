@@ -1,0 +1,18 @@
+[submodule "resources/superpowers"]
+	path = resources/superpowers
+	url = https://github.com/obra/superpowers
+[submodule "resources/java-design-patterns"]
+	path = resources/java-design-patterns
+	url = https://github.com/iluwatar/java-design-patterns
+[submodule "resources/claude-code"]
+	path = resources/claude-code
+	url = https://github.com/anthropics/claude-code
+[submodule "resources/everything-claude-code"]
+	path = resources/everything-claude-code
+	url = https://github.com/affaan-m/everything-claude-code
+[submodule "resources/get-shit-done"]
+	path = resources/get-shit-done
+	url = https://github.com/gsd-build/get-shit-done
+[submodule "resources/awesome-marketing"]
+	path = resources/awesome-marketing
+	url = https://github.com/marketingtoolslist/awesome-marketing
