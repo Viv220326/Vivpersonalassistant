@@ -1,9 +1,13 @@
+import logging
+
 from telegram import Update
 from telegram.constants import ChatAction
 from telegram.ext import ContextTypes
 
 from bot.config import ALLOWED_USER_IDS
 from bot.ai_operator import MarketingOperator
+
+logger = logging.getLogger(__name__)
 
 operator = MarketingOperator()
 
@@ -33,6 +37,7 @@ async def _send(update: Update, text: str) -> None:
 
 async def handle_start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     user_id = update.effective_user.id
+    logger.info(f"SETUP_USER_ID={user_id}")
     if not _is_allowed(user_id):
         await update.message.reply_text("Access denied.")
         return
