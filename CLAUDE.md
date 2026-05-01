@@ -83,7 +83,7 @@ For vague inputs, generate: Concept → Audience Angle → Messaging → Content
 | GA4 | Analytics |
 | Eber | Loyalty programme |
 | TableCheck | Reservations |
-| Outlook Calendar | Scheduling |
+| Gmail (220326vpa@gmail.com) | Email, scheduling |
 | Telegram | Primary task communication |
 
 ---

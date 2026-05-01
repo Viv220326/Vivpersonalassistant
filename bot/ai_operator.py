@@ -107,7 +107,7 @@ For vague inputs, generate: Concept → Audience Angle → Messaging → Content
 - GA4 (analytics)
 - Eber (loyalty programme)
 - TableCheck (reservations)
-- Outlook Calendar — vivian.choo@gaiaco.ltd (scheduling)
+- Gmail — 220326vpa@gmail.com (email, scheduling)
 - Telegram (primary task communication)
 
 ---
